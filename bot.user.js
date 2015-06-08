@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        monsterhd232
+// @namespace   monsterhd232
 // @include     http://agar.io/
 // @version     3.03
 // @grant       none
